@@ -33,14 +33,14 @@ Este projeto foi criado como um exercício prático para consolidar conhecimento
 ### 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/gusthecurious/basic-text-editor
+cd basic-text-editor
 ```
 
 ### 2️⃣ Executar com Python
 
 ```bash
-python editor_appy.py
+python editor_app.py
 ```
 
 > Certifique-se de ter o Python instalado (versão 3.8 ou superior).
