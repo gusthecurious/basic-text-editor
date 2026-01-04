@@ -12,7 +12,6 @@ Este projeto foi criado como um exercício prático para consolidar conhecimento
 * 💾 Salvar e salvar como
 * 🌓 Temas **Light** e **Dark**
 * ↩️ Undo / Redo
-* 🔍 Busca de texto (Find Next)
 * 📊 Barra de status (linha e coluna do cursor)
 * ⚠️ Aviso de arquivo não salvo ao fechar
 * 💽 Restauração de sessão (tema salvo)
