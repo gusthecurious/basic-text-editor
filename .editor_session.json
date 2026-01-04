@@ -1,0 +1,15 @@
+{
+    "theme": "Dark",
+    "active_tab": 1,
+    "tabs": [
+        {
+            "file": "notes.txt",
+            "cursor": "3.5"
+    },
+    {
+        "file": null,
+        "content": "Unsaved text here",
+        "cursor": "1.0"
+    }
+    ]
+}
